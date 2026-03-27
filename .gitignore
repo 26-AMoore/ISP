@@ -1,6 +1,2 @@
 InfraredWatchSchematics/*
-!InfraredWatchSchematics/InfraredWatch.kicad_pcb
-!InfraredWatchSchematics/InfraredWatch.kicad_prl
-!InfraredWatchSchematics/InfraredWatch.kicad_pro
-!InfraredWatchSchematics/InfraredWatch.kicad_sch
-!InfraredWatchSchematics/InfraredWatch.kicad_sym
+!InfraredWatchSchematics/InfraredWatch.kicad_*
