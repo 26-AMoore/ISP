@@ -15536,6 +15536,52 @@
 			)
 		)
 	)
+	(sheet
+		(at 96.52 134.62)
+		(size 22.86 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f5507d2c-2ada-4970-8976-001e2362ca66")
+		(property "Sheetname" "NFC"
+			(at 96.52 133.9084 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nfc.kicad_sch"
+			(at 96.52 159.3346 0)
+			(show_name yes)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "InfraredWatch"
+				(path "/cfbb9194-e408-4c25-81c1-90611b33486f"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

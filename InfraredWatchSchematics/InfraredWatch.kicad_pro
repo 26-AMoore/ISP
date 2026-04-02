@@ -675,13 +675,17 @@
         "uuid": "cfbb9194-e408-4c25-81c1-90611b33486f"
       }
     ],
-    "used_designators": "U4",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
     [
       "cfbb9194-e408-4c25-81c1-90611b33486f",
       "InfraredWatch"
+    ],
+    [
+      "f5507d2c-2ada-4970-8976-001e2362ca66",
+      "NFC"
     ]
   ],
   "text_variables": {},
