@@ -7,7 +7,7 @@
 	(title_block
 		(title "ISP_Watch")
 		(date "2026-03-28")
-		(rev "0")
+		(rev "0.0")
 		(company "Alex Moore")
 	)
 	(lib_symbols
@@ -10419,7 +10419,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 58.1152 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -15532,52 +15532,6 @@
 				(path "/cfbb9194-e408-4c25-81c1-90611b33486f"
 					(reference "D2")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(sheet
-		(at 96.52 134.62)
-		(size 22.86 24.13)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "f5507d2c-2ada-4970-8976-001e2362ca66")
-		(property "Sheetname" "NFC"
-			(at 96.52 133.9084 0)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "nfc.kicad_sch"
-			(at 96.52 159.3346 0)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "InfraredWatch"
-				(path "/cfbb9194-e408-4c25-81c1-90611b33486f"
-					(page "2")
 				)
 			)
 		)
